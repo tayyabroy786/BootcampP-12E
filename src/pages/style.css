@@ -1,0 +1,22 @@
+.main-container {
+  max-width: 667px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.form-container>* {
+  width: 100%;
+  min-height: 20px;
+  border: 1px solid #cccccc;
+  margin-bottom: 15px;
+  padding: 10px;
+
+}
