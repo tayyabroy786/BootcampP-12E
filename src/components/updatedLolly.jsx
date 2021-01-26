@@ -1,6 +1,8 @@
 import React from "react"
-import "./lolly.css"
 import { navigate } from "gatsby"
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./lolly.css";
 const newlolly = ({ pageContext }) => {
   return (
     <div className="container">

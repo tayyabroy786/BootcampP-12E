@@ -7,6 +7,7 @@ import { navigate } from "gatsby";
 
 // CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "./newLolly.css";
 
 // C
 import Lolly from "../components/lolly";
