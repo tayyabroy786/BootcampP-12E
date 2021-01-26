@@ -67,7 +67,7 @@ const newlolly = ({ pageContext }) => {
             <div className="card-body text-primary">
               <div className="link-box mb-3">
                 <p>
-                  {`https://virtual-lolly-app.netlify.app/lollies/${pageContext.link}`}
+                  {`https://hungry-goodall-560811.netlify.app/lollies/${pageContext.link}`}
                 </p>
               </div>
               <div className="details">
