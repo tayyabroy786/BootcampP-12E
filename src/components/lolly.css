@@ -2,6 +2,7 @@
   box-shadow: 0px 7px 10px 1px rgb(0 0 0 / 15%);
 }
 
+
 .reciever {
   font-family: Yellowtail, cursive;
   font-size: 32px;
@@ -9,12 +10,14 @@
   text-shadow: #FFEB3B 0 0 10px;
 }
 
+
 .from {
   font-family: Yellowtail, cursive;
   font-size: 1.6em;
   font-style: normal;
   text-shadow: #FFEB3B 0 0 10px;
 }
+
 
 .details {
   padding: 1em 2em;
